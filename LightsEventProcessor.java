@@ -1,3 +1,5 @@
+package ru.sbt.mipt.oop;
+
 import static ru.sbt.mipt.oop.SensorEventType.LIGHT_OFF;
 import static ru.sbt.mipt.oop.SensorEventType.LIGHT_ON;
 

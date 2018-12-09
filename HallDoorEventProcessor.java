@@ -1,3 +1,5 @@
+package ru.sbt.mipt.oop;
+
 import static ru.sbt.mipt.oop.SensorEventType.DOOR_CLOSE;
 
 public class HallDoorEventProcessor implements EventProcessor {

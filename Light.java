@@ -1,3 +1,5 @@
+package ru.sbt.mipt.oop;
+
 public class Light implements Actionable {
     private boolean isOn;
     private final String id;

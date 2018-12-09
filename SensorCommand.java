@@ -1,3 +1,5 @@
+package ru.sbt.mipt.oop;
+
 public class SensorCommand {
     private final CommandType type;
     private final String objectId;

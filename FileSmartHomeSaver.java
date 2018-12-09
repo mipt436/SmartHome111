@@ -1,3 +1,5 @@
+package ru.sbt.mipt.oop;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
